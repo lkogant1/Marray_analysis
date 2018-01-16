@@ -1,4 +1,4 @@
 microarray analysis      
-#get data.      
-#outlier analysis.     
-#ttest.     
+#get data          
+#outlier analysis               
+#ttest                   
